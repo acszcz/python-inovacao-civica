@@ -53,19 +53,19 @@ A segunda sugestão é executar via o Binder. Neste caso, faça um fork desse re
 
 # Semana 0
 
-   - [ ] Aula 0: Apresentação do curso
-   - [ ] Aula 1: Inovação cívica e tecnologia no Brasil
-   - [ ] Aula 3: O maravilhoso mundo das tecnologias abertas
-   - [ ] Aula 4: Git e Github: Primeiros passos
-   - [ ] Aula 5: Introdução ao pensamento computacional
-   - [ ] Aula 6: Benefícios e aplicações práticas do pensamento computacional
-   - [ ] Aula 7: Como aprender linguagem de programação
-   - [ ] Aula 8: Linguagens do curso
-   - [ ] Aula 9: Configurar um ambiente de desenvolvimento local
-   - [ ] Aula 10: Ferramentas para programação em python
-   - [ ] Aula 11: Como funciona a internet
-   - [ ] Aula 12: Introdução a API
-   - [ ] Aula 13: Interagindo com APIs
+   - [x] Aula 0: Apresentação do curso
+   - [x] Aula 1: Inovação cívica e tecnologia no Brasil
+   - [x] Aula 3: O maravilhoso mundo das tecnologias abertas
+   - [x] Aula 4: Git e Github: Primeiros passos
+   - [x] Aula 5: Introdução ao pensamento computacional
+   - [x] Aula 6: Benefícios e aplicações práticas do pensamento computacional
+   - [x] Aula 7: Como aprender linguagem de programação
+   - [x] Aula 8: Linguagens do curso
+   - [x] Aula 9: Configurar um ambiente de desenvolvimento local
+   - [x] Aula 10: Ferramentas para programação em python
+   - [x] Aula 11: Como funciona a internet
+   - [x] Aula 12: Introdução a API
+   - [x] Aula 13: Interagindo com APIs
 
 - **desafio.ipynb**
    - [x] Desafio: Como aprender linguagens de programação
